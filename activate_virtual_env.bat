@@ -1,0 +1,1 @@
+C:\Python27\bs_env\Scripts\Activate.bat
